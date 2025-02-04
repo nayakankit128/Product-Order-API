@@ -1,0 +1,3 @@
+25-01-06 09:24:28.945 [http-nio-8080-exec-8] INFO  c.p.P.controller.ProductController - Product add with id 45 and Product name is bajaj jucer and quantity 3300
+25-01-06 09:24:49.484 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+25-01-06 09:24:49.490 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
