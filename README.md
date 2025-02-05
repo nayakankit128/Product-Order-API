@@ -43,4 +43,10 @@ Stores order details in MongoDB
 
 Provides REST APIs to place, fetch, and cancel orders
 
+## Testing screenshoot
+<img width="638" alt="product" src="https://github.com/user-attachments/assets/a4b76f67-a852-4ac5-a537-dd3c273a0712" />
+
+<img width="627" alt="order" src="https://github.com/user-attachments/assets/3832274b-5dbe-494f-8ba9-f2880a6c6b3d" />
+
+
 
